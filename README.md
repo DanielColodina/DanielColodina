@@ -1,16 +1,40 @@
-## Hi there 👋
+# Olá, eu sou Daniel 👋
 
-<!--
-**DanielColodina/DanielColodina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Back-end com foco em Java e Spring Boot.
 
-Here are some ideas to get you started:
+Tenho desenvolvido projetos envolvendo APIs REST,
+bancos de dados relacionais, Docker e arquitetura backend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+
+Java • Spring Boot • Spring Data JPA
+MySQL • PostgreSQL
+Docker • Git • GitHub
+REST APIs • Maven
+
+## 🧠 Atualmente estudando
+
+- Arquitetura de Software
+- Clean Code
+- SOLID
+- Testes automatizados
+- Docker
+- Microsserviços
+
+## 📌 Projetos em destaque
+
+### 🏗 Gestão de Obras
+Sistema para gerenciamento de obras, clientes,
+documentos e processos operacionais.
+
+### 📊 Spreadsheet Organizer
+Aplicação Java para interpretar e organizar dados
+vindos de planilhas desestruturadas.
+
+### 🛒 Supermercado API
+API REST utilizando Java, Spring Boot e banco de dados.
+
+## 📫 Contato
+
+LinkedIn: ...
+Email: ...
