@@ -36,5 +36,5 @@ API REST utilizando Java, Spring Boot e banco de dados.
 
 ## 📫 Contato
 
-LinkedIn: ...
-Email: ...
+LinkedIn: https://www.linkedin.com/in/daniel-ant%C3%B4nio-2698253a6/
+Email: danielbtcethe22@gmail.com
