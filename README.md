@@ -29,13 +29,25 @@ bancos de dados relacionais, Docker e arquitetura backend.
 ### 🏗 Gestão de Obras
 Sistema para gerenciamento de obras, clientes,
 documentos e processos operacionais.
+![Java](https://img.shields.io/badge/Java-21-orange)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-green)
+![MySQL](https://img.shields.io/badge/MySQL-8-blue)
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
 
 ### 📊 Spreadsheet Organizer
 Aplicação Java para interpretar e organizar dados
 vindos de planilhas desestruturadas.
+![Java](https://img.shields.io/badge/Java-21-orange)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-green)
+![MySQL](https://img.shields.io/badge/MySQL-8-blue)
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
 
 ### 🛒 Supermercado API
 API REST utilizando Java, Spring Boot e banco de dados.
+![Java](https://img.shields.io/badge/Java-21-orange)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-green)
+![MySQL](https://img.shields.io/badge/MySQL-8-blue)
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
 
 ## 📫 Contato
 
